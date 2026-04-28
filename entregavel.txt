@@ -1,0 +1,16 @@
+SPRINT 1 — CHATBOT GOODWE 
+
+Integrantes:
+- Brenno Gomes — RM: 570525
+- Eduardo Moreira — RM: 569923
+- Enzo Stahal — RM: 569001
+- Matheus Bruno — RM: 572944
+
+Link do repositório GitHub:
+https://github.com/BrennoGomes1/goodwe-chatbot
+
+Conteúdos entregues no repositório:
+- README.md com escopo, proposta e tecnologias
+- Fluxograma do chatbot em Mermaid (docs/fluxograma.mmd)
+- Modelo de teste com perguntas e respostas (docs/perguntas_respostas.md)
+- System Prompt base (prompts/system_prompt.txt)
