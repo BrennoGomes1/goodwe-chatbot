@@ -1,7 +1,7 @@
 # Chatbot GoodWe — EV ChargeOps Assistant (Sprint 1)
 
 ## Integrantes
-- Brenno Gomes — RM: 57052
+- Brenno Gomes — RM: 570525
 - Eduardo Moreira — RM: 569923
 - Enzo Stahal — RM: 569001
 - Matheus Bruno — RM: 572944
