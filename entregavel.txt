@@ -11,6 +11,6 @@ https://github.com/BrennoGomes1/goodwe-chatbot
 
 Conteúdos entregues no repositório:
 - README.md com escopo, proposta e tecnologias
-- Fluxograma do chatbot em Mermaid (docs/fluxograma.mmd)
+- Fluxograma do chatbot em Mermaid (docs/fluxograma.md)
 - Modelo de teste com perguntas e respostas (docs/perguntas_respostas.md)
 - System Prompt base (prompts/system_prompt.txt)
